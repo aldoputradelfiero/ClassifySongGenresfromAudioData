@@ -1,4 +1,4 @@
-# ClassifySongGenresfromAudioData
+# Classify Song Genres from Audio Data
 Project Classify Song Genres from Audio Data
 - Topic : Machine Learning
 - Programming language : Python
